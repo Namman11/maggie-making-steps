@@ -1,0 +1,53 @@
+body {
+    font-family: arial;
+    color: #fff;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  h1 {
+    font-size: 32px;
+    color: #f39c12;
+    margin-bottom: 15px;
+    text-shadow: 1px 1px 2px #000;
+  }
+  
+  .maggi-box {
+    background: #34495e;
+    padding: 15px;
+    border-radius: 8px;
+    max-width: 550px;
+    margin: auto;
+    border: 2px solid #f1c40f;
+  }
+  
+  img {
+    width: 100%;
+    max-width: 450px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 2px solid #f1c40f;
+  }
+  
+  h2 {
+    font-size: 22px;
+    color: #e67e22;
+    margin-bottom: 8px;
+  }
+  
+  h3 {
+    font-size: 18px;
+    color: #1abc9c;
+    margin-top: 15px;
+  }
+  
+  ul, ol {
+    text-align: left;
+    max-width: 450px;
+    margin: 0 auto 15px;
+    padding-left: 20px;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
